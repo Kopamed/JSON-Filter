@@ -39,17 +39,19 @@ Valuable Keys -
         activities - dict (r/ihadastroke?????)
         
         
-TOUR
-currentCode - str
-tour - dict
-tour/totalPrice - int
-tour/totalDays - int
-tour/travelers - str
-tour/date - str
-tour/items/0/currentHub - dict
-totalHotel - 844,
-totalPrice - 2338,
-totalPriceOnePercon - 1169,
-totalPriceOnePerconFormatted - $1169,
-totalPricePerDay - 1916,
-totalPriceActivity - 964,
+    Tour -
+    
+        currentCode - str
+        tour - dict
+        tour/totalPrice - int
+        tour/totalDays - int
+        tour/travelers - str
+        tour/date - str
+        tour/items/0/currentHub - dict
+        totalHotel - int
+        totalPrice - int
+        totalPriceOnePercon - int
+        totalPriceOnePerconFormatted - str
+        totalPricePerDay - int
+        totalPriceActivity - int
+            
