@@ -1,0 +1,57 @@
+Main Classes - 
+
+
+    - Parser
+   
+   
+    
+Sub-Classes - 
+
+
+    - Database
+    
+    
+    
+Main Classs variables - 
+    
+    
+    - Parser - 
+        
+        New Directory
+        Old Directory
+        Key List
+        (File Directory could be added)
+   
+        
+        
+Valuable Keys - 
+
+
+    Wishlist - 
+    
+        Name | Type
+        
+        items - dict
+        name - str
+        country - str
+        countryCode - str
+        geolocation - dict
+        activities - dict (r/ihadastroke?????)
+        
+        
+    Tour -
+    
+        currentCode - str
+        tour - dict
+        tour/totalPrice - int
+        tour/totalDays - int
+        tour/travelers - str
+        tour/date - str
+        tour/items/0/currentHub - dict
+        totalHotel - int
+        totalPrice - int
+        totalPriceOnePercon - int
+        totalPriceOnePerconFormatted - str
+        totalPricePerDay - int
+        totalPriceActivity - int
+            
