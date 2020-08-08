@@ -7,8 +7,5 @@ This code contains two functions - `extract_tour()` and `extract_wishlist()`. Th
 
 
 ### How to use the code
-<<<<<<< HEAD
 `git clone https://github.com/Kopamed/JSON-Filter/`, then move jfilter.py to the direcotry where you are going to use these functions. Then add to the top of your code add `from jfilter import *`. Now you are able to call these functions from anywhere in your code!
-=======
-`git clone https://github.com/Kopamed/JSON-Filter/`, then move jfilter.py to the direcotry where you are going to use these functions. Then add to the top of your code add `from jfilter import *`. Now you are able to call these functions from anywhere in your code!
->>>>>>> df7aaeb7baa2b9968a3b5be2882b7761b78e449e
+
